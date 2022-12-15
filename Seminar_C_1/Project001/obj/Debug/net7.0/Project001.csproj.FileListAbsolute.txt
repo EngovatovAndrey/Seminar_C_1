@@ -1,0 +1,15 @@
+/Users/engomac/Documents/Programming/GeekBrains/Практика/Seminar_C_1/Seminar_C_1/Project001/bin/Debug/net7.0/Project001
+/Users/engomac/Documents/Programming/GeekBrains/Практика/Seminar_C_1/Seminar_C_1/Project001/bin/Debug/net7.0/Project001.deps.json
+/Users/engomac/Documents/Programming/GeekBrains/Практика/Seminar_C_1/Seminar_C_1/Project001/bin/Debug/net7.0/Project001.runtimeconfig.json
+/Users/engomac/Documents/Programming/GeekBrains/Практика/Seminar_C_1/Seminar_C_1/Project001/bin/Debug/net7.0/Project001.dll
+/Users/engomac/Documents/Programming/GeekBrains/Практика/Seminar_C_1/Seminar_C_1/Project001/bin/Debug/net7.0/Project001.pdb
+/Users/engomac/Documents/Programming/GeekBrains/Практика/Seminar_C_1/Seminar_C_1/Project001/obj/Debug/net7.0/Project001.csproj.AssemblyReference.cache
+/Users/engomac/Documents/Programming/GeekBrains/Практика/Seminar_C_1/Seminar_C_1/Project001/obj/Debug/net7.0/Project001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/engomac/Documents/Programming/GeekBrains/Практика/Seminar_C_1/Seminar_C_1/Project001/obj/Debug/net7.0/Project001.AssemblyInfoInputs.cache
+/Users/engomac/Documents/Programming/GeekBrains/Практика/Seminar_C_1/Seminar_C_1/Project001/obj/Debug/net7.0/Project001.AssemblyInfo.cs
+/Users/engomac/Documents/Programming/GeekBrains/Практика/Seminar_C_1/Seminar_C_1/Project001/obj/Debug/net7.0/Project001.csproj.CoreCompileInputs.cache
+/Users/engomac/Documents/Programming/GeekBrains/Практика/Seminar_C_1/Seminar_C_1/Project001/obj/Debug/net7.0/Project001.dll
+/Users/engomac/Documents/Programming/GeekBrains/Практика/Seminar_C_1/Seminar_C_1/Project001/obj/Debug/net7.0/refint/Project001.dll
+/Users/engomac/Documents/Programming/GeekBrains/Практика/Seminar_C_1/Seminar_C_1/Project001/obj/Debug/net7.0/Project001.pdb
+/Users/engomac/Documents/Programming/GeekBrains/Практика/Seminar_C_1/Seminar_C_1/Project001/obj/Debug/net7.0/Project001.genruntimeconfig.cache
+/Users/engomac/Documents/Programming/GeekBrains/Практика/Seminar_C_1/Seminar_C_1/Project001/obj/Debug/net7.0/ref/Project001.dll

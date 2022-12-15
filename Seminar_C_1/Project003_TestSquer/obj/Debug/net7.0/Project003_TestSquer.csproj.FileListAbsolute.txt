@@ -1,0 +1,15 @@
+/Users/engomac/Documents/Programming/GeekBrains/Практика/Seminar_C_1/Seminar_C_1/Project003_TestSquer/bin/Debug/net7.0/Project003_TestSquer
+/Users/engomac/Documents/Programming/GeekBrains/Практика/Seminar_C_1/Seminar_C_1/Project003_TestSquer/bin/Debug/net7.0/Project003_TestSquer.deps.json
+/Users/engomac/Documents/Programming/GeekBrains/Практика/Seminar_C_1/Seminar_C_1/Project003_TestSquer/bin/Debug/net7.0/Project003_TestSquer.runtimeconfig.json
+/Users/engomac/Documents/Programming/GeekBrains/Практика/Seminar_C_1/Seminar_C_1/Project003_TestSquer/bin/Debug/net7.0/Project003_TestSquer.dll
+/Users/engomac/Documents/Programming/GeekBrains/Практика/Seminar_C_1/Seminar_C_1/Project003_TestSquer/bin/Debug/net7.0/Project003_TestSquer.pdb
+/Users/engomac/Documents/Programming/GeekBrains/Практика/Seminar_C_1/Seminar_C_1/Project003_TestSquer/obj/Debug/net7.0/Project003_TestSquer.csproj.AssemblyReference.cache
+/Users/engomac/Documents/Programming/GeekBrains/Практика/Seminar_C_1/Seminar_C_1/Project003_TestSquer/obj/Debug/net7.0/Project003_TestSquer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/engomac/Documents/Programming/GeekBrains/Практика/Seminar_C_1/Seminar_C_1/Project003_TestSquer/obj/Debug/net7.0/Project003_TestSquer.AssemblyInfoInputs.cache
+/Users/engomac/Documents/Programming/GeekBrains/Практика/Seminar_C_1/Seminar_C_1/Project003_TestSquer/obj/Debug/net7.0/Project003_TestSquer.AssemblyInfo.cs
+/Users/engomac/Documents/Programming/GeekBrains/Практика/Seminar_C_1/Seminar_C_1/Project003_TestSquer/obj/Debug/net7.0/Project003_TestSquer.csproj.CoreCompileInputs.cache
+/Users/engomac/Documents/Programming/GeekBrains/Практика/Seminar_C_1/Seminar_C_1/Project003_TestSquer/obj/Debug/net7.0/Project003_TestSquer.dll
+/Users/engomac/Documents/Programming/GeekBrains/Практика/Seminar_C_1/Seminar_C_1/Project003_TestSquer/obj/Debug/net7.0/refint/Project003_TestSquer.dll
+/Users/engomac/Documents/Programming/GeekBrains/Практика/Seminar_C_1/Seminar_C_1/Project003_TestSquer/obj/Debug/net7.0/Project003_TestSquer.pdb
+/Users/engomac/Documents/Programming/GeekBrains/Практика/Seminar_C_1/Seminar_C_1/Project003_TestSquer/obj/Debug/net7.0/Project003_TestSquer.genruntimeconfig.cache
+/Users/engomac/Documents/Programming/GeekBrains/Практика/Seminar_C_1/Seminar_C_1/Project003_TestSquer/obj/Debug/net7.0/ref/Project003_TestSquer.dll

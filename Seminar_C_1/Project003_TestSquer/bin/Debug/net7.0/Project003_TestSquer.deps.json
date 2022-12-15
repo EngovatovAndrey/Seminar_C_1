@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Project003_TestSquer/1.0.0": {
+        "runtime": {
+          "Project003_TestSquer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Project003_TestSquer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

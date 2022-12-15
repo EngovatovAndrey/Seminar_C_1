@@ -1,0 +1,15 @@
+/Users/engomac/Documents/Programming/GeekBrains/Практика/Seminar_C_1/Seminar_C_1/Project002_week/bin/Debug/net7.0/Project002
+/Users/engomac/Documents/Programming/GeekBrains/Практика/Seminar_C_1/Seminar_C_1/Project002_week/bin/Debug/net7.0/Project002.deps.json
+/Users/engomac/Documents/Programming/GeekBrains/Практика/Seminar_C_1/Seminar_C_1/Project002_week/bin/Debug/net7.0/Project002.runtimeconfig.json
+/Users/engomac/Documents/Programming/GeekBrains/Практика/Seminar_C_1/Seminar_C_1/Project002_week/bin/Debug/net7.0/Project002.dll
+/Users/engomac/Documents/Programming/GeekBrains/Практика/Seminar_C_1/Seminar_C_1/Project002_week/bin/Debug/net7.0/Project002.pdb
+/Users/engomac/Documents/Programming/GeekBrains/Практика/Seminar_C_1/Seminar_C_1/Project002_week/obj/Debug/net7.0/Project002.csproj.AssemblyReference.cache
+/Users/engomac/Documents/Programming/GeekBrains/Практика/Seminar_C_1/Seminar_C_1/Project002_week/obj/Debug/net7.0/Project002.GeneratedMSBuildEditorConfig.editorconfig
+/Users/engomac/Documents/Programming/GeekBrains/Практика/Seminar_C_1/Seminar_C_1/Project002_week/obj/Debug/net7.0/Project002.AssemblyInfoInputs.cache
+/Users/engomac/Documents/Programming/GeekBrains/Практика/Seminar_C_1/Seminar_C_1/Project002_week/obj/Debug/net7.0/Project002.AssemblyInfo.cs
+/Users/engomac/Documents/Programming/GeekBrains/Практика/Seminar_C_1/Seminar_C_1/Project002_week/obj/Debug/net7.0/Project002.csproj.CoreCompileInputs.cache
+/Users/engomac/Documents/Programming/GeekBrains/Практика/Seminar_C_1/Seminar_C_1/Project002_week/obj/Debug/net7.0/Project002.dll
+/Users/engomac/Documents/Programming/GeekBrains/Практика/Seminar_C_1/Seminar_C_1/Project002_week/obj/Debug/net7.0/refint/Project002.dll
+/Users/engomac/Documents/Programming/GeekBrains/Практика/Seminar_C_1/Seminar_C_1/Project002_week/obj/Debug/net7.0/Project002.pdb
+/Users/engomac/Documents/Programming/GeekBrains/Практика/Seminar_C_1/Seminar_C_1/Project002_week/obj/Debug/net7.0/Project002.genruntimeconfig.cache
+/Users/engomac/Documents/Programming/GeekBrains/Практика/Seminar_C_1/Seminar_C_1/Project002_week/obj/Debug/net7.0/ref/Project002.dll
