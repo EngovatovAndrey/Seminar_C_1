@@ -1,0 +1,15 @@
+/Users/engomac/Documents/Programming/GeekBrains/Практика/Seminar_C_1/Seminar_C_1/Project005/obj/Debug/net7.0/Project005.csproj.AssemblyReference.cache
+/Users/engomac/Documents/Programming/GeekBrains/Практика/Seminar_C_1/Seminar_C_1/Project005/obj/Debug/net7.0/Project005.GeneratedMSBuildEditorConfig.editorconfig
+/Users/engomac/Documents/Programming/GeekBrains/Практика/Seminar_C_1/Seminar_C_1/Project005/obj/Debug/net7.0/Project005.AssemblyInfoInputs.cache
+/Users/engomac/Documents/Programming/GeekBrains/Практика/Seminar_C_1/Seminar_C_1/Project005/obj/Debug/net7.0/Project005.AssemblyInfo.cs
+/Users/engomac/Documents/Programming/GeekBrains/Практика/Seminar_C_1/Seminar_C_1/Project005/obj/Debug/net7.0/Project005.csproj.CoreCompileInputs.cache
+/Users/engomac/Documents/Programming/GeekBrains/Практика/Seminar_C_1/Seminar_C_1/Project005/bin/Debug/net7.0/Project005
+/Users/engomac/Documents/Programming/GeekBrains/Практика/Seminar_C_1/Seminar_C_1/Project005/bin/Debug/net7.0/Project005.deps.json
+/Users/engomac/Documents/Programming/GeekBrains/Практика/Seminar_C_1/Seminar_C_1/Project005/bin/Debug/net7.0/Project005.runtimeconfig.json
+/Users/engomac/Documents/Programming/GeekBrains/Практика/Seminar_C_1/Seminar_C_1/Project005/bin/Debug/net7.0/Project005.dll
+/Users/engomac/Documents/Programming/GeekBrains/Практика/Seminar_C_1/Seminar_C_1/Project005/bin/Debug/net7.0/Project005.pdb
+/Users/engomac/Documents/Programming/GeekBrains/Практика/Seminar_C_1/Seminar_C_1/Project005/obj/Debug/net7.0/Project005.dll
+/Users/engomac/Documents/Programming/GeekBrains/Практика/Seminar_C_1/Seminar_C_1/Project005/obj/Debug/net7.0/refint/Project005.dll
+/Users/engomac/Documents/Programming/GeekBrains/Практика/Seminar_C_1/Seminar_C_1/Project005/obj/Debug/net7.0/Project005.pdb
+/Users/engomac/Documents/Programming/GeekBrains/Практика/Seminar_C_1/Seminar_C_1/Project005/obj/Debug/net7.0/Project005.genruntimeconfig.cache
+/Users/engomac/Documents/Programming/GeekBrains/Практика/Seminar_C_1/Seminar_C_1/Project005/obj/Debug/net7.0/ref/Project005.dll
