@@ -1,7 +1,8 @@
 ﻿using static System.Console;
 
-WriteLine("Введите два числа");
+WriteLine("Введите первое число - ");
 int number1 = int.Parse(ReadLine()!);
+WriteLine("Введите первое число - ");
 int number2 = int.Parse(ReadLine()!);
 
 if (number1 == number2*number2)
